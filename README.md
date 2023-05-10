@@ -1,4 +1,4 @@
 # JavaBasico
  Comandos Basicos em Java
  ##
- Para visualizar os codigos acessar: "Codigos/src/"
+ Para visualizar os codigos acessar: Codigos/src/
